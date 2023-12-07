@@ -10,13 +10,9 @@ Hello! I'm **Antoine Greuzard**, a dedicated WordPress specialist with a passion
 
 Over the years, I've tackled a wide array of projects, each with their unique challenges and opportunities. This has shaped me into a versatile and adaptable developer, always ready to cater to the specific needs of each client.
 
-## 🤖 Member of the Influactive Team
-
-As a proud member of the **Influactive** team, I'm privileged to have access to a treasure trove of resources and knowledge. This keeps me updated on the latest web trends and technological innovations. Working alongside dynamic professionals is an added perk, constantly inspiring me to push boundaries.
-
 ## 🎯 Passion for Freelancing
 
-While affiliated with a team, my heart truly lies in freelancing. I love the autonomy, freedom, and the opportunity to forge closer relationships with my clients. You have my commitment to a dedicated service, tailored to your exact needs.
+I love the autonomy, freedom, and the opportunity to forge closer relationships with my clients. You have my commitment to a dedicated service, tailored to your exact needs.
 
 ## 💡 Interested in Collaborating?
 
