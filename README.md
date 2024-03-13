@@ -1,27 +1,25 @@
-# Antoine Greuzard - Freelance Web Developer
+# Antoine Greuzard - Fullstack Web Developer
 
-![Badge - WordPress Expert](https://img.shields.io/badge/WordPress-Expert-blue)
+![Badge - Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-orange)
 ![Badge - 7 Years Experience](https://img.shields.io/badge/Experience-7%20Years-orange)
 ![Badge - 100+ Projects](https://img.shields.io/badge/Projects-100%2B-green)
 
-Hello! I'm **Antoine Greuzard**, a dedicated WordPress specialist with a passion for web development. With over a decade in the field, I've worked alongside various web agencies, turning more than 100 visions into digital realities.
+Hello! I'm **Antoine Greuzard**, a Fullstack Web Developer with a passion for crafting sophisticated and scalable web solutions. My decade of experience has seen me collaborate with various teams to deliver over 100 projects successfully. I have a deep understanding and expertise in a wide range of technologies, including Laravel, WordPress, Symfony, Vue.js, React, Next.js, Django, Flask, Angular, and SASS, among others.
 
-## 🚀 Experience and Approach
+## 🚀 Wide-Ranging Expertise
 
-Over the years, I've tackled a wide array of projects, each with their unique challenges and opportunities. This has shaped me into a versatile and adaptable developer, always ready to cater to the specific needs of each client.
+My professional journey has equipped me with a broad skill set, enabling me to tackle projects of diverse complexities across different technology stacks. Whether it's developing responsive and dynamic websites with Vue.js and React, building robust back-end systems using Laravel and Django, or creating high-performing applications with Next.js and Angular, I have the expertise to bring visions to life with precision and creativity.
 
-## 🎯 Passion for Freelancing
+## 🎯 Commitment to Excellence
 
-I love the autonomy, freedom, and the opportunity to forge closer relationships with my clients. You have my commitment to a dedicated service, tailored to your exact needs.
+I am committed to leveraging the latest technologies and best practices to deliver top-notch solutions that meet and exceed expectations. My approach is always tailored to the specific needs of the project, ensuring a perfect blend of functionality, performance, and user experience.
 
-## 💡 Interested in Collaborating?
+## 💡 Continuous Learning and Sharing
 
-Be it a website overhaul, a simple landing page, or a complex e-commerce project, I'm here to assist. Every new project is an adventure, and I'm eager to embark on this journey with you. Let's discuss your ideas and visions!
+The ever-evolving nature of web development drives me to continuously learn and adapt. I am passionate about exploring new technologies and methodologies, which enables me to offer innovative solutions to complex challenges. Sharing knowledge and contributing to the development community is a key part of my professional ethos.
 
-📩 [Contact Me](mailto:antoine@antoinegreuzard.fr)
-
-🌐 [Visit My Website - antoinegreuzard.fr](https://antoinegreuzard.fr)
+🌐 [Explore My Work - antoinegreuzard.fr](https://antoinegreuzard.fr)
 
 ---
 
-*Share your vision, and I'll craft it into an impressive digital reality.*
+*Connect and explore the vast possibilities in web development. Let's build the future together.*
