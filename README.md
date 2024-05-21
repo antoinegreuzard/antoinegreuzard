@@ -1,7 +1,7 @@
 # Antoine Greuzard - Fullstack Web Developer
 
 ![Badge - Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-orange)
-![Badge - 7 Years Experience](https://img.shields.io/badge/Experience-7%20Years-orange)
+![Badge - 8 Years Experience](https://img.shields.io/badge/Experience-7%20Years-orange)
 ![Badge - 100+ Projects](https://img.shields.io/badge/Projects-100%2B-green)
 
 Hello! I'm **Antoine Greuzard**, a Fullstack Web Developer with a passion for crafting sophisticated and scalable web solutions. My decade of experience has seen me collaborate with various teams to deliver over 100 projects successfully. I have a deep understanding and expertise in a wide range of technologies, including Laravel, WordPress, Symfony, Vue.js, React, Next.js, Django, Flask, Angular, and SASS, among others.
