@@ -17,9 +17,3 @@ I am committed to leveraging the latest technologies and best practices to deliv
 ## 💡 Continuous Learning and Sharing
 
 The ever-evolving nature of web development drives me to continuously learn and adapt. I am passionate about exploring new technologies and methodologies, which enables me to offer innovative solutions to complex challenges. Sharing knowledge and contributing to the development community is a key part of my professional ethos.
-
-🌐 [Explore My Work - antoinegreuzard.fr](https://antoinegreuzard.fr)
-
----
-
-*Connect and explore the vast possibilities in web development. Let's build the future together.*
